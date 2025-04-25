@@ -1,5 +1,8 @@
 > 曾经很火的光影文字效果图, 网上很多webui教程, 没找到有comfyui的工作流, 于是我就简单搞了一个来玩
 
+# 工作流
+- [光影文字.json](./光影文字.json)
+
 # 推荐模型:
 + 大模型: beautifulRealistic_v60.safetensors
 + ControlNet模型: control_v1p_sd15_brightness.safetensors
